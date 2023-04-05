@@ -5,7 +5,7 @@
 
 ## Recommended guides and related projects
 
-First things firsts. 
+First things first. 
 
 - Optimal Cl/Cd ratio: [video](https://www.youtube.com/watch?v=RyCcKV8puSE)
 - Calculating lift in hydrofoils: [Forum discussion](https://www.boatdesign.net/threads/calculating-lift-bernoulli-forces-on-hydrofoil-for-windsurfing-board.60062/)
