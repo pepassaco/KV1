@@ -49,9 +49,11 @@ Note however that in the transition phase from water to air, we expect the front
 
 The shape and angles of the hydrofoils were obtained by means of the numerical simulation software [XFLR5](https://sourceforge.net/projects/xflr5/files/). First, an approximation for the global size of the airfoils was determined in terms of the lift force we require. Then, their aspect ratios were chosen so that they are the largest possible (for minimising drag) without impacting the maneuverability of the vessel (excessively long hydrofoils can be unconfortable for paddling) and manufacturing requirements (in our particular case, the longest piece must be less than 1m long). Finally, it was time to tweek the remaining parameters: the exact position of the hydrofoils in the X axis of the vessel with respect to the center of mass, their depth or position in the Z axis, the AoA of the front foil and the shape and width of the masts that will attach the foils to the hull.
 
-The optimization of these parameters was carried out by finding a slightly positive Momentum Coefficient (Cm) at 0º of vessel pitching that becomes 0 for low pitching angles (around 2º in this case). The physical meaning of this is that, when reaching certain threshold speed (the rotation speed) with the kayak perfectly flat, the lift generated will be enought for both lifting the bow (increasing the AoA) and lifting the paddler in the vertical axis. At 2º of pitching, the weigth forces and the lift forces will cancel out and the vessel will remain "flying":
+The optimization of these parameters was carried out by finding a slightly positive Momentum Coefficient (Cm) at 0º of vessel pitching that becomes 0 for low pitching angles (around 2º in this case). The physical meaning of this is that, when reaching certain threshold speed (the rotation speed) with the kayak perfectly flat, the lift generated will be enought for both lifting the bow, generating pitching in the vessel and increasing the AoA. At 2º of pitching, Cm will equal 0, so it should remain in that orientation indefinitely:
 
 ![](/images/Resultados.png)
+
+Note that, in the lower-right plot, we can see the lift force caused by both hydrofoils. It is always greater than 1200N, so that, even assuming a relatively large security margin, the lift forces will cancel out (and even be greater than) the weigth forces, so the vessel will start "flying":
 
 The final deign can be seen in the following images (the XFLR5 file is also included in the folder simulations/):
 
