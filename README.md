@@ -18,7 +18,7 @@ The design stage of this project took place under the following constraints:
 
 - At cruising speed, no part of the hull must be touching the water
 - The foils must be able to lift a person with a body mass of at least 90Kg
-- The hydrodynamic lift must be greater than the weight of the paddler and the vessel for velocities as low as 3m/s
+- The hydrodynamic lift must be greater than the weight of the paddler and the vessel for velocities as low as 3.5m/s
 - All of the above must take place in fresh calm water at at least 15ºC
 
 While due to their fluid-mechanical nature these are the main considerations to have into account in this stage, there are other important conditions for this project to succeed, such as the hydrofoils being relatively lightweight and resilient or being able to manufacture with enough accuracy.
