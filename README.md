@@ -10,6 +10,7 @@ First things firsts.
 - Optimal Cl/Cd ratio: [video](https://www.youtube.com/watch?v=RyCcKV8puSE)
 - Calculating lift in hydrofoils: [Forum discussion](https://www.boatdesign.net/threads/calculating-lift-bernoulli-forces-on-hydrofoil-for-windsurfing-board.60062/)
 - List of tutorials on how to design and simulate an airfoil(/hydrofoil) in XFLR 5 from zero (in Spanish): [link 1](https://www.youtube.com/watch?v=bGubYDDyFB4), [link 2](https://www.youtube.com/watch?v=IUO3XJQxrvs), [link 3](https://www.youtube.com/watch?v=fuJba9P9ncE), [link 4](https://www.youtube.com/watch?v=owMY_eJGt3o)
+- What we want to achieve: [video 1](https://www.youtube.com/watch?v=-VyOZVtOWoI)
 
 ## Design considerations
 
