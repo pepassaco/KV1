@@ -27,7 +27,7 @@ While due to their fluid-mechanical nature these are the main considerations to 
 
 The very first step in this case is analysing our fluid so that we can adequately choose the optimal hydrodynamic foil shape. Assuming an average salinity of our water of 10g/Kg, at 15ºC, its kinematic viscosity will be of about 1,15e6 m^2/s: 
 
-![](https://github.com/pepassaco/KV1/blob/main/images/kine.jpg)
+![](/images/kine.jpg)
 
 Pluggin this value in the definition of Reynold's NUmber, we get Re ~ 5.2e5:
 
