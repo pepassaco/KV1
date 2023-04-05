@@ -53,7 +53,7 @@ The optimization of these parameters was carried out by finding a slightly posit
 
 ![](/images/Resultados.png)
 
-Note that, in the lower-right plot, we can see the lift force caused by both hydrofoils. It is always greater than 1200N, so that, even assuming a relatively large security margin, the lift forces will cancel out (and even be greater than) the weigth forces, so the vessel will start "flying":
+Note that, in the lower-right plot, we can see the lift force caused by both hydrofoils. It is always greater than 1200N, so that, even assuming a relatively large security margin, the lift forces will cancel out (and even be greater than) the weigth forces, so the vessel will start "flying".
 
 The final deign can be seen in the following images (the XFLR5 file is also included in the folder simulations/):
 
