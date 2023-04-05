@@ -1,6 +1,6 @@
 # KV1: A hydrofoil-based flying kayak 
 
-**IMPORTANT**: This project is currently UNDER DEVELOPMENT and in the prototyping stage. As a result, the final deisgn has not be tested yet. Build it at your own risk. Any kind of advice, testing or collaboration will be highly appreciated :)
+**IMPORTANT**: This project is currently UNDER DEVELOPMENT and in the prototyping stage. As a result, the final deisgn has not been tested yet. Build it at your own risk. Any kind of advice, testing or collaboration will be highly appreciated :)
 
 
 ## Recommended guides and related projects
